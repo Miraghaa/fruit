@@ -68,7 +68,7 @@
     font-size: 14px;
     color: #5c6c75;
     margin-bottom: 26px;
-    font-weight: 700;
+    font-weight: 500;
     }
     .F-all a{
     color: #fff;
@@ -78,6 +78,11 @@
     padding: 10px 16px;
     border-radius: 10px;
     font-weight: 600;
+    }
+    .F-all span{
+        font-family: 'Inter', sans-serif;
+        color: #5c6c75;
+        font-weight: 700;
     }
     .Fresh{
         background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner-2.jpg);
@@ -190,7 +195,7 @@
         cursor: pointer;
         position: absolute;
         top: 65%;
-        left: 27%;
+        left: 28%;
      }
     .box1:hover .icon-thirds i{
         opacity: 1;
